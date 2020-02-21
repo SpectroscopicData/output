@@ -1,0 +1,7 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/spectroscopicdata/spectroscopicdata.github.io.git
+    	ignore = all
+[submodule "spectroscopicdata.github.io"]
+	path = spectroscopicdata.github.io
+	url = https://github.com/spectroscopicdata/spectroscopicdata.github.io.git
